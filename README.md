@@ -6,3 +6,4 @@ The package provides NOM codes for four numerical optimization problems (three s
 
 The following paper describes the details of the NOM:
 https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2022.0405
+https://arxiv.org/abs/2208.03897
