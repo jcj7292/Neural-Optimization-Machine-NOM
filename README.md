@@ -13,7 +13,7 @@ arXiv paper https://arxiv.org/abs/2208.03897
 ## Usage
 Using Problem 1 as an illustration, the following steps will show the optimization results
 
-1. Open problem1_NOM.py
+1. Open problem1_NOM.py in the file problem1
 
 2. Change path "..." in Line 10 _dir = ".../problem1/"
 
