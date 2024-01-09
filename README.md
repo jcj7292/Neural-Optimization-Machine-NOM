@@ -1,4 +1,4 @@
-Neural Optimization Machine (NOM)
+# Neural Optimization Machine (NOM)
 
 This software package implements the Neural Optimization Machine (NOM) for constrained optimization of neural network models.
 
